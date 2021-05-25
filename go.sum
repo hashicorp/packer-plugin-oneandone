@@ -34,6 +34,8 @@ cloud.google.com/go/storage v1.8.0/go.mod h1:Wv1Oy7z6Yz3DshWRJFhqM/UCfaWIRTdp0RX
 cloud.google.com/go/storage v1.10.0 h1:STgFzyU5/8miMl0//zKh2aQeTyeaUH3WN9bSUiJ09bA=
 cloud.google.com/go/storage v1.10.0/go.mod h1:FLPqc6j+Ki4BU591ie1oL6qBQGu2Bl/tZ9ullr3+Kg0=
 dmitri.shuralyov.com/gpu/mtl v0.0.0-20190408044501-666a987793e9/go.mod h1:H6x//7gZCb22OMCxBHrMx7a5I7Hp++hsVxbQ4BYO7hU=
+github.com/1and1/oneandone-cloudserver-sdk-go v1.0.1 h1:RMTyvS5bjvSWiUcfqfr/E2pxHEMrALvU+E12n6biymg=
+github.com/1and1/oneandone-cloudserver-sdk-go v1.0.1/go.mod h1:61apmbkVJH4kg+38ftT+/l0XxdUCVnHggqcOTqZRSEE=
 github.com/Azure/go-ntlmssp v0.0.0-20180810175552-4a21cbd618b4/go.mod h1:chxPXzSsl7ZWRAuOIE23GDNzjWuZquvFlgA8xmpunjU=
 github.com/Azure/go-ntlmssp v0.0.0-20191115201650-bad6df29494a h1:3FwiePtHk5YJrooV799oo5jIfsgRdES25VdngJM03dU=
 github.com/Azure/go-ntlmssp v0.0.0-20191115201650-bad6df29494a/go.mod h1:chxPXzSsl7ZWRAuOIE23GDNzjWuZquvFlgA8xmpunjU=
