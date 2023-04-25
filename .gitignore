@@ -2,3 +2,4 @@ main
 dist/*
 packer-plugin-oneandone
 crash.log
+.docs
