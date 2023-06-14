@@ -1,11 +1,3 @@
----
-description: The IONOS 1&1 builder is able to create images for IONOS cloud.
-page_title: 1&1 - IONOS Builder
-nav_title: 1&1
----
-
-# 1&1 Builder
-
 Type: `oneandone`
 Artifact BuilderId: `packer.oneandone`
 
@@ -23,7 +15,10 @@ In addition to the options listed here, a
 builder. In addition to the options defined there, a private key file
 can also be supplied to override the typical auto-generated key:
 
-@include 'packer-plugin-sdk/communicator/SSH-Private-Key-File-not-required.mdx'
+- `ssh_private_key_file` (string) - Path to a PEM encoded private key file to use to authenticate with SSH.
+  The `~` can be used in path and will be expanded to the home directory
+  of current user.
+
 
 ### Required
 
