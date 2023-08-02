@@ -1,6 +1,6 @@
 module github.com/hashicorp/packer-plugin-oneandone
 
-go 1.18
+go 1.19
 
 require (
 	github.com/1and1/oneandone-cloudserver-sdk-go v1.0.1
